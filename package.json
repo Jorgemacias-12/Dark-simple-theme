@@ -1,0 +1,21 @@
+{
+    "name": "an-other-simple-dark-theme",
+    "displayName": "An Other Simple Dark Theme",
+    "description": "A dark theme for my color preferences",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Simple Dark theme with code good highlight colors",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Simple Dark theme with code good highlight colors-color-theme.json"
+            }
+        ]
+    }
+}
