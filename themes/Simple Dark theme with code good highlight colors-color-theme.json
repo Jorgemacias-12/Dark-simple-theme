@@ -47,9 +47,9 @@
     "sideBarSectionHeader.foreground": "#ffffffca",
     "editorGroup.dropBackground": "#4954954a",
     "editorGroupHeader.tabsBackground": "#20252b",
-    "tab.activeBackground": "#121212",
-    "tab.activeBorder": "#0058ab",
-    "tab.inactiveBackground": "#3c3d40",
+    "tab.activeBackground": "#000",
+    "tab.activeBorder": "#CE120A",
+    "tab.inactiveBackground": "#0C1117",
     "statusBar.background": "#2e3436",
     "statusBar.debuggingBackground": "#fe8090",
     "statusBar.debuggingForeground": "#fff",
@@ -266,3 +266,5 @@
 	}
   ]
 }
+
+// jvt26a3omzjeqeickmvzpaqwcrwc4mjh4uql3m75x7ubidsigvqa
