@@ -35,7 +35,7 @@
     "list.inactiveFocusBackground": "#2a213999",
     "list.errorForeground": "#fe4450E6",
     "list.warningForeground": "#F0DB4F",
-    "activityBar.background": "#171520",
+    "activityBar.background": "#121212",
     "activityBar.foreground": "#ffffffCC",
     "activityBarBadge.background": "#f97e72",
     "activityBarBadge.foreground": "#2a2139",
@@ -47,13 +47,13 @@
     "sideBarSectionHeader.foreground": "#ffffffca",
     "editorGroup.dropBackground": "#4954954a",
     "editorGroupHeader.tabsBackground": "#20252b",
-    "tab.activeBackground": "#272c34",
+    "tab.activeBackground": "#121212",
     "tab.activeBorder": "#0058ab",
     "tab.inactiveBackground": "#3c3d40",
     "statusBar.background": "#2e3436",
     "statusBar.debuggingBackground": "#fe8090",
     "statusBar.debuggingForeground": "#fff",
-    "editor.background": "#20252B",
+    "editor.background": "#171520",
     "editorLineNumber.foreground": "#fff",
     "editor.findMatchBackground": "#0059ab",
     "editor.foreground": "#fff",
@@ -238,6 +238,20 @@
       "scope": ["storage.type", "storage.modifier"],
       "settings": {
         "foreground": "#fede5d"
+      }
+    },
+    {
+      "name": "Class",
+      "scope": ["entity.name.type", "meta.attribute.class.html"],
+      "settings": {
+        "foreground": "#fe4450"
+      }
+    },
+    {
+      "name": "Key-value separator",
+      "scope": "punctuation.separator.key-value",
+      "settings": {
+        "foreground": "#b6b1b1"
       }
     }
   ]
