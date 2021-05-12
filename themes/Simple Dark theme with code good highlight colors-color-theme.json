@@ -114,6 +114,43 @@
       }
     },
     {
+      "name": "String",
+      "scope": [
+        "string.quoted",
+        "string.template",
+        "punctuation.definition.string"
+      ],
+      "settings": {
+        "foreground": "#ea8b44",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Operator",
+      "scope": "keyword.operator",
+      "settings": {
+        "foreground": "#fede5d"
+      }
+    },
+    {
+      "name": "Special operator",
+      "scope": [
+        "keyword.operator.new",
+        "keyword.operator.expression",
+        "keyword.operator.logical"
+      ],
+      "settings": {
+        "foreground": "#fede5d"
+      }
+    },
+    {
+      "name": "Function",
+      "scope": ["entity.name.function", "variable.function"],
+      "settings": {
+        "foreground": "#36f9f6"
+      }
+    },
+    {
       "name": "Unit",
       "scope": "keyword.other.unit",
       "settings": {
@@ -134,13 +171,13 @@
         "foreground": "#36f9f6"
       }
     },
-	{
-		"name": "HTML or XML class",
-		"scope":"entity.other.attribute-name",
-		"settings": {
-			"foreground": "#ff0000"
-		}
-	},
+    {
+      "name": "HTML or XML class",
+      "scope": "entity.other.attribute-name",
+      "settings": {
+        "foreground": "#ff0000"
+      }
+    },
     {
       "name": "CSS #id",
       "scope": "entity.other.attribute-name.id",
@@ -179,20 +216,29 @@
       "name": "Tag attribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#ea8b44"
+        "foreground": "#5af1ba"
       }
     },
-	{
-		"name": "String",
-		"scope":[
-			"string.quoted",
-			"string.template",
-			"punctuation.definition.string"
-		],
-		"settings": {
-			"foreground": "#5af1ba",
-			"fontStyle": "italic"
-		}
-	}
+    {
+      "name": "JS Export",
+      "scope": ["keyword.control.export.js", "keyword.control.import.js"],
+      "settings": {
+        "foreground": "#72f1b8"
+      }
+    },
+    {
+      "name": "Variable",
+      "scope": ["variable", "entity.name.variable"],
+      "settings": {
+        "foreground": "#ff7edb"
+      }
+    },
+    {
+      "name": "Storage (declaration or modifier keyword)",
+      "scope": ["storage.type", "storage.modifier"],
+      "settings": {
+        "foreground": "#fede5d"
+      }
+    }
   ]
 }
