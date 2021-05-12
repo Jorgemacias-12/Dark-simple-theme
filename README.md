@@ -1,16 +1,7 @@
-# README
+# It's just an other Dark Theme
 
-## This is the README for your extension "an-other-simple-dark-theme"
+Hi, this is a simple dark theme made by me, i soon upgrade and improve the look of the theme. It's my first time on this  :u.
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+    How it looks the theme?
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+![alt](https://github.com/Jorgemacias-12/Dark-simple-theme/resources/theme.png)

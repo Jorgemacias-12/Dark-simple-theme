@@ -6,10 +6,14 @@
     "engines": {
         "vscode": "^1.56.0"
     },
+    "publisher": "JorgeAntonioMaciasZambrano",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Jorgemacias-12/Dark-simple-theme"
+    },
     "categories": [
         "Themes"
     ],
-    "publisher": "Jorge Antonio Macias Zambrano",
     "contributes": {
         "themes": [
             {
@@ -18,5 +22,10 @@
                 "path": "./themes/Simple Dark theme with code good highlight colors-color-theme.json"
             }
         ]
-    }
+    },
+    "keywords": [
+        "Theme",
+        "Dark Theme",
+        "JAMZ"
+    ]
 }
