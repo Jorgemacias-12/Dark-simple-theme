@@ -216,7 +216,7 @@
       "name": "Tag attribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#5af1ba"
+        "foreground": "#ffde6a"
       }
     },
     {
@@ -253,6 +253,16 @@
       "settings": {
         "foreground": "#b6b1b1"
       }
-    }
+    },
+	{
+		"name": "HTML class",
+		"scope": [
+			"entity.other.attribute-name.html"
+		],
+		"settings": {
+			"foreground": "#5af1ba",
+			"fontStyle": "bold"
+		}
+	}
   ]
 }
