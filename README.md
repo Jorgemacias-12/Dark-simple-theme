@@ -4,4 +4,4 @@ Hi, this is a simple dark theme made by me, i soon upgrade and improve the look 
 
     How it looks the theme?
 
-![alt](https://github.com/Jorgemacias-12/Dark-simple-theme/resources/theme.png)
+![alt](resources/theme.png)
